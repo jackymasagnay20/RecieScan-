@@ -1,0 +1,2 @@
+# RecieScan-
+OCR Scanner Application 
